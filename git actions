@@ -1,0 +1,12 @@
+$ git init
+$ git add <file>
+$ git status (status or change treeg)
+$ git commit (commit changes to index)
+$git push (send to your repo)
+$ git pull (auto download/update all files and foldera with changes )
+
+$ touch ...filename.ext...
+
+it is advisable to create your diff proj in another folder other than master(default) before combining all projs in master
+
+$ git config ...read up
